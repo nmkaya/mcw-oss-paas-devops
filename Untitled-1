@@ -1,0 +1,3 @@
+
+
+mongoimport --host mutlu-softtech.documents.azure.com:10255 -u mutlu-softtech -p bf2sHPUEq5UDNbMANZBEdOOSbZGyShYnSBcNFoz0Qe0nkybKcRu5Qh63IUT1t0lYky2PqOOiSpPL0VWRUfLpPQ== --db best-for-you-organics --collection orders --ssl --sslAllowInvalidCertificates --type json --file ~/MongoExport/orders.json
